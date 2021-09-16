@@ -1,7 +1,7 @@
 {
   "name": "material-ui-dropzone",
   "version": "3.5.0",
-  "description": "A Material-UI file-upload dropzone",
+  "description": "A Material-UI File Upload Dropzone",
   "license": "MIT",
   "author": "Yuval",
   "repository": {
