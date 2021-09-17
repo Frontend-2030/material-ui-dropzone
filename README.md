@@ -38,7 +38,7 @@ yarn add @pandemicode/material-ui-dropzone
 
 ## Demo
 
-Full documentation and samples are available here [https://yuvaleros.github.io/material-ui-dropzone](https://yuvaleros.github.io/material-ui-dropzone).
+Full documentation and samples are available here [https://github.com/pandemicode/material-ui-dropzone/actions](https://yuvaleros.github.io/material-ui-dropzone).
 
 **Preview: Dialog Component** with drag'n'drop effects for accepted and rejected files.
 
