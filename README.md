@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/yuvaleros/material-ui-dropzone)](https://github.com/Yuvaleros/material-ui-dropzone/blob/master/LICENSE) [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg)](#contributors) [![Rebuild Dist Workflow Status](https://img.shields.io/github/workflow/status/yuvaleros/material-ui-dropzone/Rebuild%20Dist?label=build)](https://github.com/Yuvaleros/material-ui-dropzone/actions?query=workflow%3A%22Rebuild+Dist%22) [![Update Docs Workflow Status](https://img.shields.io/github/workflow/status/yuvaleros/material-ui-dropzone/Update%20Docs?label=docs)](https://github.com/Yuvaleros/material-ui-dropzone/actions?query=workflow%3A%22Update+Docs%22) [![npm package](https://img.shields.io/npm/v/material-ui-dropzone)](https://www.npmjs.com/package/material-ui-dropzone) [![npm downloads](https://img.shields.io/npm/dm/material-ui-dropzone.svg)](https://www.npmjs.com/package/material-ui-dropzone)
 
 
-**Material-UI-Dropzone** is a set of [React](https://github.com/facebook/react) components using [Material-UI](https://github.com/mui-org/material-ui) and is based on the excellent [react-dropzone](https://github.com/react-dropzone/react-dropzone) library.
+**@pandemicode/material-ui-dropzone** a fork of **[Material-UI-Dropzone](https://github.com/Yuvaleros/material-ui-dropzone)** is a set of [React](https://github.com/facebook/react) components using [Material-UI](https://github.com/mui-org/material-ui) and is based on the excellent [react-dropzone](https://github.com/react-dropzone/react-dropzone) library.
 
 These components provide: 
 
@@ -12,22 +12,24 @@ These components provide:
 
 Additionally, the File Upload Dropzone features some snazzy "File Allowed/Not Allowed" effects, previews and alerts.
 
+Before proceeding with using this module, refer to the <a href="#disclaimer">disclaimer section</a> on the end of this README.
+
 
 ## Installation
 
 ```shell
-npm install --save material-ui-dropzone
+npm install --save @pandemicode/material-ui-dropzone
 ```
 
 or
 
 ```shell
-yarn add material-ui-dropzone
+yarn add @pandemicode/material-ui-dropzone
 ```
 
 ## Support
 
-`material-ui-dropzone` complies to the following support matrix.
+`@pandemicode/material-ui-dropzone` complies to the following support matrix.
 
 | version | React            | Material-UI    |
 | ------- | ---------------- | -------------- |
@@ -172,3 +174,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Disclaimer
+
+Material UI Dropzone original repo is here https://github.com/Yuvaleros/material-ui-dropzone.
+
+This fork is an independent build which may incorporate more features and bug fixes and is not dependent of the original repo maintainers review process or release cycle.
+
+Furthermore, any features or bug fixes, that result from this independent build will always be contributed back to the original repo when possible. 
+
+This repo will also be maintained in sync with it's upstream, every time possible.
