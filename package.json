@@ -1,6 +1,6 @@
 {
   "name": "@pandemicode/material-ui-dropzone",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "description": "A Material-UI File Upload Dropzone",
   "license": "MIT",
   "author": "Yuval",
@@ -92,7 +92,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry":"https://registry.npmjs.org",
+    "registry": "https://registry.npmjs.org",
     "tag": "@pandemicode/material-ui-dropzone"
   }
 }
