@@ -1,12 +1,12 @@
 {
-  "name": "material-ui-dropzone",
+  "name": "@pandemicode/material-ui-dropzone",
   "version": "3.5.1",
   "description": "A Material-UI File Upload Dropzone",
   "license": "MIT",
   "author": "Yuval",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yuvaleros/material-ui-dropzone.git"
+    "url": "https://github.com/jpinho/material-ui-dropzone.git"
   },
   "keywords": [
     "react",
