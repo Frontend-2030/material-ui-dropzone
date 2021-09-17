@@ -89,5 +89,10 @@
   "homepage": "https://github.com/jpinho/material-ui-dropzone#readme",
   "directories": {
     "doc": "docs"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry":"https://registry.npmjs.org",
+    "tag": "@pandemicode/material-ui-dropzone"
   }
 }
