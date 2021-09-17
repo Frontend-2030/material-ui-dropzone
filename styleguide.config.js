@@ -26,6 +26,10 @@ module.exports = {
       name: 'Theme',
       content: './docs/theming.md',
     },
+    {
+      name: 'Disclaimer',
+      content: './docs/disclaimer.md',
+    },
   ],
   skipComponentsWithoutExample: true,
   usageMode: 'expand',

@@ -754,7 +754,7 @@ process.env.NODE_ENV !== "production" ? DropzoneAreaBase.propTypes = {
   maxFileSize: PropTypes.number,
 
   /** Text or Element inside the dropzone. */
-  dropzoneText: PropTypes.string | PropTypes.element,
+  dropzoneText: PropTypes.node,
 
   /** Custom CSS class name for dropzone container. */
   dropzoneClass: PropTypes.string,
