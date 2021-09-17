@@ -3,7 +3,7 @@ name: Rebuild Dist
 on:
   push:
     branches:
-      - master
+      - master-pandemicode
       - v2.x
 
 env:
